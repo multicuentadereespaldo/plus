@@ -3181,7 +3181,7 @@ class PlayState extends MusicBeatState
 				'week5_nomiss', 'week6_nomiss', 'week7_nomiss', 'ur_bad',
 				'ur_good', 'hype', 'two_keys', 'toastie', 'debugger',
 				'week8_nomiss', 'week9_nomiss', 'week10_nomiss', 'week11_nomiss',
-			    'training passed', 'Kassetto', 'like old times', 'who is the star now?!', 'you finally have an iphone']);
+			    'training passed', 'Kassetto', 'like old times', 'who is the star now?!, 'you finally have an iphone']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
