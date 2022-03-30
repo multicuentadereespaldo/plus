@@ -4532,7 +4532,7 @@ class PlayState extends MusicBeatState
 						if(Paths.formatToSongPath(SONG.song) == 'Levan-polkka' && !usedPractice) {
 							unlock = true;
 						}
-					case 'you finally have an iphone!':
+					case 'you finally have an iphone':
 						if(Paths.formatToSongPath(SONG.song) == 'i-ain't-got-no-iphone' && !usedPractice) {
 							unlock = true;
 						}
